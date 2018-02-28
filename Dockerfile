@@ -1,10 +1,12 @@
 FROM node:8-alpine
 
+COPY package.json yarn.lock /
+
 RUN apk add --quiet --no-cache --virtual .gyp \
   python \
   build-base \
   git \
-  && yarn add renovate \
+  && yarn \
   && yarn cache clean \
   && apk --quiet del .gyp
 
