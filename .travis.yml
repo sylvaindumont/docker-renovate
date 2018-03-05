@@ -9,6 +9,6 @@ services:
   - docker
 
 script:
-  - docker build -t weboaks/node-karma-protractor-chrome:$(node get-renovate-version.js) .
+  - docker build -t weboaks/renovate:$(node get-renovate-version.js) .
   - docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
-  - docker push weboaks/node-karma-protractor-chrome:debian-$(node get-renovate-version.js)
+  - docker push weboaks/renovate:$(node get-renovate-version.js)
