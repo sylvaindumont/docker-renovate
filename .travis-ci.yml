@@ -1,0 +1,14 @@
+sudo: required
+language: node_js
+node_js:
+  - "8"
+branches:
+  only:
+  - master
+services:
+  - docker
+
+script:
+  - docker build -t weboaks/node-karma-protractor-chrome:$(node get-renovate-version.js) .
+  - docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
+  - docker push weboaks/node-karma-protractor-chrome:debian-$(node get-renovate-version.js)
