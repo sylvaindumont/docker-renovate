@@ -451,9 +451,9 @@ combined-stream@1.0.6, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@2.15.0:
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.0.tgz#ad2a23a1c3b036e392469b8012cec6b33b4c1322"
+commander@2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
 
 compare-versions@3.1.0:
   version "3.1.0"
@@ -2599,9 +2599,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@11.37.9:
-  version "11.37.9"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.37.9.tgz#e770c72a81086a10e2713152f12f61cfea9e8fb6"
+renovate@11.37.10:
+  version "11.37.10"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.37.10.tgz#261dc599c7778708126c6d7bee2e326547004c45"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2609,7 +2609,7 @@ renovate@11.37.9:
     chalk "2.3.2"
     changelog "1.4.2"
     child-process-promise "2.2.1"
-    commander "2.15.0"
+    commander "2.15.1"
     compare-versions "3.1.0"
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
