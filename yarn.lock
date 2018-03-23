@@ -2599,9 +2599,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@11.40.3:
-  version "11.40.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.40.3.tgz#5f0ad45857d23568c78149926b24311897ab8ba3"
+renovate@11.40.4:
+  version "11.40.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.40.4.tgz#80c8dedda5430c0159be7576e54782e8c2a78389"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
