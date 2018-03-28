@@ -355,6 +355,10 @@ cidr-regex@1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/cidr-regex/-/cidr-regex-1.0.6.tgz#74abfd619df370b9d54ab14475568e97dd64c0c1"
 
+clean-git-ref@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/clean-git-ref/-/clean-git-ref-1.0.3.tgz#5325dc839eab01c974ae0e97f5734782750f88ec"
+
 cli-boxes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/cli-boxes/-/cli-boxes-1.0.0.tgz#4fa917c3e59c94a004cd61f8ee509da651687143"
@@ -2637,9 +2641,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@11.41.19:
-  version "11.41.19"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.41.19.tgz#718fbb84e9d75eb7c691b73ee40638b32508626a"
+renovate@11.41.21:
+  version "11.41.21"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.41.21.tgz#1d5eed5a452f28e5078a19377fc5a7c86a3a6178"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2647,6 +2651,7 @@ renovate@11.41.19:
     chalk "2.3.2"
     changelog "1.4.2"
     child-process-promise "2.2.1"
+    clean-git-ref "1.0.3"
     commander "2.15.1"
     compare-versions "3.1.0"
     conventional-commits-detector "0.1.1"
@@ -2681,6 +2686,7 @@ renovate@11.41.19:
     semver-stable "2.0.4"
     semver-utils "1.1.1"
     showdown "1.8.6"
+    slugify "1.2.9"
     tmp-promise "1.0.4"
     traverse "0.6.6"
     upath "1.0.4"
@@ -2853,6 +2859,10 @@ slash@^1.0.0:
 slide@^1.1.3, slide@^1.1.5, slide@^1.1.6, slide@~1.1.3, slide@~1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
+
+slugify@1.2.9:
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.2.9.tgz#c3d518f5136b3c69345d5d0bbbcde7412b5694aa"
 
 smart-buffer@^1.0.13:
   version "1.1.15"
