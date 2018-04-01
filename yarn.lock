@@ -324,6 +324,10 @@ chalk@^2.0.1:
     escape-string-regexp "^1.0.5"
     supports-color "^5.2.0"
 
+changelog-filename-regex@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/changelog-filename-regex/-/changelog-filename-regex-1.1.1.tgz#8a2eb3049a652e3c03c8b601e3cbb032ee9f4e6d"
+
 changelog@1.4.2:
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/changelog/-/changelog-1.4.2.tgz#618abaecfaff42cf2452d52c195ff83b5589d2fe"
@@ -2665,15 +2669,16 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@11.46.6:
-  version "11.46.6"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.46.6.tgz#eb2d4c0376ee0317cbb4062f74c96aff0ad924fc"
+renovate@11.47.0:
+  version "11.47.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-11.47.0.tgz#44b7d2e8b50d8449d0d33b567bb69951c373e6e1"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
     cacache "10.0.4"
     chalk "2.3.2"
     changelog "1.4.2"
+    changelog-filename-regex "1.1.1"
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
     commander "2.15.1"
