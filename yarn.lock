@@ -2699,9 +2699,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.3.3:
-  version "12.3.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.3.3.tgz#efeb8eb16decf867ffc5839b1fd12d4742bd6094"
+renovate@12.3.4:
+  version "12.3.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.3.4.tgz#f10ea4f268cb20e081c0804cddc747f2e56f2125"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2742,6 +2742,7 @@ renovate@12.3.3:
     pnpm "1.40.0"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
+    safe-regex "1.1.0"
     semver "5.5.0"
     semver-stable "2.0.4"
     semver-utils "1.1.2"
@@ -2815,6 +2816,10 @@ responselike@1.0.2:
   dependencies:
     lowercase-keys "^1.0.0"
 
+ret@~0.1.10:
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/ret/-/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
+
 retry@^0.10.0, retry@~0.10.1:
   version "0.10.1"
   resolved "https://registry.yarnpkg.com/retry/-/retry-0.10.1.tgz#e76388d217992c252750241d3d3956fed98d8ff4"
@@ -2856,6 +2861,12 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@~5.1.0, 
 safe-json-stringify@~1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/safe-json-stringify/-/safe-json-stringify-1.1.0.tgz#bd2b6dad1ebafab3c24672a395527f01804b7e19"
+
+safe-regex@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
+  dependencies:
+    ret "~0.1.10"
 
 semver-diff@^2.0.0:
   version "2.1.0"
