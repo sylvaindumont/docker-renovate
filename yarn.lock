@@ -1879,9 +1879,9 @@ moment@2.20.1, "moment@>= 2.9.0", moment@^2.10.6:
   version "2.20.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
 
-moment@2.22.0:
-  version "2.22.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.0.tgz#7921ade01017dd45186e7fee5f424f0b8663a730"
+moment@2.22.1:
+  version "2.22.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.1.tgz#529a2e9bf973f259c9643d237fda84de3a26e8ad"
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -2699,9 +2699,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.4.0:
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.4.0.tgz#0d169a4c19f90e9a113df7ec70b1417974e0b013"
+renovate@12.4.1:
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.4.1.tgz#4db857b8b28bd867245321b14bb7aaf9f8db365c"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2734,7 +2734,7 @@ renovate@12.4.0:
     lodash "4.17.5"
     markdown-it "8.4.1"
     minimatch "3.0.4"
-    moment "2.22.0"
+    moment "2.22.1"
     moment-timezone "0.5.14"
     npm "5.8.0"
     openpgp "2.6.2"
