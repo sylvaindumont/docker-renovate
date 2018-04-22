@@ -1431,9 +1431,9 @@ json-schema@0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.2.3.tgz#b480c892e59a2f05954ce727bd3f2a4e882f9e13"
 
-json-stringify-pretty-compact@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/json-stringify-pretty-compact/-/json-stringify-pretty-compact-1.1.0.tgz#4fa5b898f61a287d64828691baa822a41f3ad5ab"
+json-stringify-pretty-compact@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/json-stringify-pretty-compact/-/json-stringify-pretty-compact-1.2.0.tgz#0bc316b5e6831c07041fc35612487fb4e9ab98b8"
 
 json-stringify-safe@~5.0.1:
   version "5.0.1"
@@ -2699,9 +2699,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.5.20:
-  version "12.5.20"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.20.tgz#55c29c0004b45a1e8a04eae20e9607ab64ee552e"
+renovate@12.5.21:
+  version "12.5.21"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.21.tgz#debb62706546a9ed2ef8f87c699dfaf7b7468bbe"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2729,7 +2729,7 @@ renovate@12.5.20:
     ini "1.3.5"
     js-yaml "3.11.0"
     json-dup-key-validator "1.0.2"
-    json-stringify-pretty-compact "1.1.0"
+    json-stringify-pretty-compact "1.2.0"
     later "1.2.0"
     lodash "4.17.5"
     markdown-it "8.4.1"
