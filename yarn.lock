@@ -1661,6 +1661,10 @@ lodash.without@~4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/lodash.without/-/lodash.without-4.4.0.tgz#3cd4574a00b67bae373a94b748772640507b7aac"
 
+lodash@4.17.10:
+  version "4.17.10"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+
 lodash@4.17.5:
   version "4.17.5"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
@@ -2699,9 +2703,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.5.22:
-  version "12.5.22"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.22.tgz#ecb871a3b7db046288a76f4fd2a4f8331d881473"
+renovate@12.5.23:
+  version "12.5.23"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.23.tgz#bb06044ab9389be5a0fb2370a8526684d65525a8"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2731,7 +2735,7 @@ renovate@12.5.22:
     json-dup-key-validator "1.0.2"
     json-stringify-pretty-compact "1.2.0"
     later "1.2.0"
-    lodash "4.17.5"
+    lodash "4.17.10"
     markdown-it "8.4.1"
     minimatch "3.0.4"
     moment "2.22.1"
