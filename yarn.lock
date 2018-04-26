@@ -327,9 +327,9 @@ chalk@2.3.0:
     escape-string-regexp "^1.0.5"
     supports-color "^4.0.0"
 
-chalk@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.0.tgz#a060a297a6b57e15b61ca63ce84995daa0fe6e52"
+chalk@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.1.tgz#18c49ab16a037b6eb0152cc83e3471338215b66e"
   dependencies:
     ansi-styles "^3.2.1"
     escape-string-regexp "^1.0.5"
@@ -2703,14 +2703,14 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.5.23:
-  version "12.5.23"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.23.tgz#bb06044ab9389be5a0fb2370a8526684d65525a8"
+renovate@12.5.24:
+  version "12.5.24"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.5.24.tgz#47d221b31aaca5d4c18560a48e5138bda667f714"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
     cacache "11.0.1"
-    chalk "2.4.0"
+    chalk "2.4.1"
     changelog "1.4.2"
     changelog-filename-regex "1.1.1"
     child-process-promise "2.2.1"
