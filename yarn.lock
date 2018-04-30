@@ -2461,6 +2461,12 @@ osenv@0, osenv@^0.1.4, osenv@^0.1.5:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
+p-all@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/p-all/-/p-all-1.0.0.tgz#93bdf53a55a23821fdfa98b4174a99bf7f31df8d"
+  dependencies:
+    p-map "^1.0.0"
+
 p-cancelable@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/p-cancelable/-/p-cancelable-0.3.0.tgz#b9e123800bcebb7ac13a479be195b507b98d30fa"
@@ -2492,6 +2498,10 @@ p-locate@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-2.0.0.tgz#20a0103b222a70c8fd39cc2e580680f3dde5ec43"
   dependencies:
     p-limit "^1.1.0"
+
+p-map@^1.0.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/p-map/-/p-map-1.2.0.tgz#e4e94f311eabbc8633a1e79908165fca26241b6b"
 
 p-timeout@^1.1.1:
   version "1.2.1"
@@ -2918,9 +2928,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.11.1:
-  version "12.11.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.11.1.tgz#c1f7a0ba7ec8499a890e421b39916b10a819f5c1"
+renovate@12.13.0:
+  version "12.13.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.13.0.tgz#efe00e7623d630736ea7c889d23cc9f216d61ab0"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2957,6 +2967,7 @@ renovate@12.11.1:
     moment-timezone "0.5.16"
     npm "6.0.0"
     openpgp "2.6.2"
+    p-all "1.0.0"
     parse-link-header "1.0.1"
     pnpm "1.41.2"
     registry-auth-token "3.3.2"
