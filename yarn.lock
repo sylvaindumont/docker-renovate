@@ -792,6 +792,10 @@ extsprintf@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
 
+fast-clone@1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/fast-clone/-/fast-clone-1.5.3.tgz#2faa7a825054e9fc8be5024fb09a266ed2cd9fe7"
+
 fast-deep-equal@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-1.1.0.tgz#c053477817c86b51daa853c81e059b733d023614"
@@ -2878,9 +2882,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.20.9:
-  version "12.20.9"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.20.9.tgz#e6d6bcad7ce1db3b4395423d1bc744dd36086af7"
+renovate@12.20.10:
+  version "12.20.10"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.20.10.tgz#55e0c59d59a8cbe7993c80f866b70930a50a049f"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2897,6 +2901,7 @@ renovate@12.20.9:
     delay "2.0.0"
     detect-indent "5.0.0"
     email-addresses "3.0.1"
+    fast-clone "1.5.3"
     fs-extra "6.0.0"
     get-installed-path "4.0.8"
     gh-got "7.0.0"
