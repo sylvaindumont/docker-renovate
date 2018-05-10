@@ -877,9 +877,9 @@ from2@^2.1.0, from2@^2.1.1:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-fs-extra@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-6.0.0.tgz#0f0afb290bb3deb87978da816fcd3c7797f3a817"
+fs-extra@6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-6.0.1.tgz#8abc128f7946e310135ddc93b98bddb410e7a34b"
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^4.0.0"
@@ -2901,9 +2901,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.23.7:
-  version "12.23.7"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.7.tgz#d08f2fef210a445dafbbef449d3c6aff23f3e461"
+renovate@12.23.8:
+  version "12.23.8"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.8.tgz#66f8293fffecffdad4d0ce7c1f6767cbe292ad26"
   dependencies:
     "@yarnpkg/lockfile" "1.0.0"
     bunyan "1.8.12"
@@ -2921,7 +2921,7 @@ renovate@12.23.7:
     detect-indent "5.0.0"
     email-addresses "3.0.1"
     fast-clone "1.5.3"
-    fs-extra "6.0.0"
+    fs-extra "6.0.1"
     get-installed-path "4.0.8"
     gh-got "7.0.0"
     github-url-from-git "1.5.0"
