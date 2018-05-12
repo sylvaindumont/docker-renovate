@@ -1981,9 +1981,9 @@ mississippi@^3.0.0:
   dependencies:
     minimist "0.0.8"
 
-moment-timezone@0.5.16:
-  version "0.5.16"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.16.tgz#661717d5f55b4d2c2e002262d726c83785192a5a"
+moment-timezone@0.5.17:
+  version "0.5.17"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.17.tgz#3c8fef32051d84c3af174d91dc52977dcb0ad7e5"
   dependencies:
     moment ">= 2.9.0"
 
@@ -2910,9 +2910,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.23.12:
-  version "12.23.12"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.12.tgz#1ac28e2af99938419dfc93d2b43e68765f8eb942"
+renovate@12.23.13:
+  version "12.23.13"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.13.tgz#3720391f8cd26e309717733b4b2c300916c02c39"
   dependencies:
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
@@ -2946,7 +2946,7 @@ renovate@12.23.12:
     markdown-it "8.4.1"
     minimatch "3.0.4"
     moment "2.22.1"
-    moment-timezone "0.5.16"
+    moment-timezone "0.5.17"
     npm "6.0.1"
     openpgp "2.6.2"
     p-all "1.0.0"
