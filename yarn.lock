@@ -2910,9 +2910,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.23.17:
-  version "12.23.17"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.17.tgz#93fe4c651af66e8ba7a7b997e5bb502c8f58a9b3"
+renovate@12.23.18:
+  version "12.23.18"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.23.18.tgz#b591b86d6d9a4798765c8416c9ed73718b7a0224"
   dependencies:
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
@@ -2959,7 +2959,7 @@ renovate@12.23.17:
     semver-stable "2.0.4"
     semver-utils "1.1.2"
     showdown "1.8.6"
-    slugify "1.2.9"
+    slugify "1.3.0"
     tmp-promise "1.0.4"
     traverse "0.6.6"
     upath "1.0.5"
@@ -3179,9 +3179,9 @@ slide@^1.1.3, slide@^1.1.5, slide@^1.1.6, slide@~1.1.3, slide@~1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
 
-slugify@1.2.9:
-  version "1.2.9"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.2.9.tgz#c3d518f5136b3c69345d5d0bbbcde7412b5694aa"
+slugify@1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.3.0.tgz#787919259d28c825fbcae6da2e01c77a109793f6"
 
 smart-buffer@^1.0.13:
   version "1.1.15"
