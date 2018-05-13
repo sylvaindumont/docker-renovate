@@ -496,9 +496,9 @@ commander@2.15.1:
   version "2.15.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
 
-compare-versions@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.1.0.tgz#43310256a5c555aaed4193c04d8f154cf9c6efd5"
+compare-versions@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.2.0.tgz#f36f23aacc539da0e3e0f71af46ce5b953a6ae76"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -2910,9 +2910,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.24.2:
-  version "12.24.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.24.2.tgz#3a173ba15f7905923a6ce3a2007612f83dbdbfd5"
+renovate@12.24.3:
+  version "12.24.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.24.3.tgz#dc22b97bd9b874ce999a2e2817421fa9880b800d"
   dependencies:
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
@@ -2922,7 +2922,7 @@ renovate@12.24.2:
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
     commander "2.15.1"
-    compare-versions "3.1.0"
+    compare-versions "3.2.0"
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
     deepcopy "0.6.3"
