@@ -661,11 +661,9 @@ defaults@^1.0.3:
   dependencies:
     clone "^1.0.2"
 
-delay@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/delay/-/delay-2.0.0.tgz#9112eadc03e4ec7e00297337896f273bbd91fae5"
-  dependencies:
-    p-defer "^1.0.0"
+delay@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/delay/-/delay-3.0.0.tgz#97fc5c21028e20616e822ab11838c648808534eb"
 
 delayed-stream@~1.0.0:
   version "1.0.0"
@@ -2477,10 +2475,6 @@ p-cancelable@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/p-cancelable/-/p-cancelable-0.4.0.tgz#bcb41d35bf6097fc4367a065b6eb84b9b124eff0"
 
-p-defer@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/p-defer/-/p-defer-1.0.0.tgz#9f6eb182f6c9aa8cd743004a7d4f96b196b0fb0c"
-
 p-finally@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/p-finally/-/p-finally-1.0.0.tgz#3fbcfb15b899a44123b34b6dcc18b724336a2cae"
@@ -2927,9 +2921,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.30.20:
-  version "12.30.20"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.30.20.tgz#53abab3a758726713b17f80c1a1c1792a29a9d75"
+renovate@12.30.22:
+  version "12.30.22"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.30.22.tgz#d8290d5f62159f8e6e1042fc16641776148db8bf"
   dependencies:
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
@@ -2943,7 +2937,7 @@ renovate@12.30.20:
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
     deepcopy "1.0.0"
-    delay "2.0.0"
+    delay "3.0.0"
     detect-indent "5.0.0"
     email-addresses "3.0.1"
     fast-clone "1.5.3"
