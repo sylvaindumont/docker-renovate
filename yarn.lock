@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@renovate/pep440@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@renovate/pep440/-/pep440-0.2.0.tgz#dbfea48b726a6cada912031c2a06c02eccfe9753"
+  dependencies:
+    xregexp "^4.1.1"
+
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
@@ -2921,10 +2927,11 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.40.6:
-  version "12.40.6"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.40.6.tgz#10ed6acc5e8c3e56726199dcd7f568d70d51febf"
+renovate@12.42.0:
+  version "12.42.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.42.0.tgz#854b8ebb0ab5b20e43ad80f6d4c9092da1d20055"
   dependencies:
+    "@renovate/pep440" "0.2.0"
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
     cacache "11.0.2"
@@ -2976,6 +2983,7 @@ renovate@12.40.6:
     upath "1.1.0"
     validator "10.2.0"
     vso-node-api "6.5.0"
+    xregexp "4.1.1"
     yarn "1.7.0"
 
 repeat-string@^1.5.2:
@@ -3762,6 +3770,10 @@ write-file-atomic@^2.0.0, write-file-atomic@^2.3.0:
 xdg-basedir@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
+
+xregexp@4.1.1, xregexp@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.1.1.tgz#eb8a032aa028d403f7b1b22c47a5f16c24b21d8d"
 
 xtend@~4.0.1:
   version "4.0.1"
