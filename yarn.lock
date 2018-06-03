@@ -2927,9 +2927,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.43.0:
-  version "12.43.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.43.0.tgz#672dcba6201783a5d9bcd851aa18a50ddae945b2"
+renovate@12.43.1:
+  version "12.43.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.43.1.tgz#d1e9b544081b6f0c3f96652c45ea0056575ce567"
   dependencies:
     "@renovate/pep440" "0.2.0"
     "@yarnpkg/lockfile" "1.0.1"
@@ -2981,7 +2981,7 @@ renovate@12.43.0:
     tmp-promise "1.0.4"
     traverse "0.6.6"
     upath "1.1.0"
-    validator "10.2.0"
+    validator "10.3.0"
     vso-node-api "6.5.0"
     xregexp "4.1.1"
     yarn "1.7.0"
@@ -3674,9 +3674,9 @@ validate-npm-package-name@^3.0.0, validate-npm-package-name@~3.0.0:
   dependencies:
     builtins "^1.0.3"
 
-validator@10.2.0:
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-10.2.0.tgz#61d6b10c3d5c9f368c75c2ce8ca2b792522eaafa"
+validator@10.3.0:
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-10.3.0.tgz#157a8c0981858cff381f59aabcdb8f83b57317cc"
 
 verror@1.10.0:
   version "1.10.0"
