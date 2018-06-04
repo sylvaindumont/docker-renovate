@@ -8,6 +8,12 @@
   dependencies:
     xregexp "^4.1.1"
 
+"@sindresorhus/is@0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.9.0.tgz#1a65a8fab2d4efa5a32a5f5f40cf9b0806aabd69"
+  dependencies:
+    symbol-observable "^1.2.0"
+
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
@@ -2927,11 +2933,12 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.43.6:
-  version "12.43.6"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.43.6.tgz#f468c2cb2b3d0865bff1f6f1c90e3e4a6173ce18"
+renovate@12.43.7:
+  version "12.43.7"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.43.7.tgz#959a8fba6fcd5f865a860bcec022401d2ed4c8f8"
   dependencies:
     "@renovate/pep440" "0.2.0"
+    "@sindresorhus/is" "0.9.0"
     "@yarnpkg/lockfile" "1.0.1"
     bunyan "1.8.12"
     cacache "11.0.2"
@@ -3429,6 +3436,10 @@ supports-color@^5.3.0:
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.3.0.tgz#5b24ac15db80fa927cf5227a4a33fd3c4c7676c0"
   dependencies:
     has-flag "^3.0.0"
+
+symbol-observable@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
 
 tar@4.4.1, tar@^4.4.0, tar@^4.4.1:
   version "4.4.1"
