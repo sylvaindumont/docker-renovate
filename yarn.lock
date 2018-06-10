@@ -2933,9 +2933,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.51.3:
-  version "12.51.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.51.3.tgz#5190e2b7e9e3fe77fcd0339f807f29a9fd8d1586"
+renovate@12.51.4:
+  version "12.51.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.51.4.tgz#f63e78fcec54e9a6772bb978d444afc6091351e8"
   dependencies:
     "@renovate/pep440" "0.2.0"
     "@sindresorhus/is" "0.9.0"
@@ -2990,7 +2990,7 @@ renovate@12.51.3:
     upath "1.1.0"
     validator "10.3.0"
     vso-node-api "6.5.0"
-    xregexp "4.1.1"
+    xregexp "4.2.0"
     yarn "1.7.0"
 
 repeat-string@^1.5.2:
@@ -3782,7 +3782,11 @@ xdg-basedir@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
 
-xregexp@4.1.1, xregexp@^4.1.1:
+xregexp@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.2.0.tgz#33f09542b0d7cabed46728eeacac4d5bd764ccf5"
+
+xregexp@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.1.1.tgz#eb8a032aa028d403f7b1b22c47a5f16c24b21d8d"
 
