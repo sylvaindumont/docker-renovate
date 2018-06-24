@@ -2700,9 +2700,9 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pnpm@2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.6.2.tgz#5507ebe92373aa133c871c9571b5af73aac7728f"
+pnpm@2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.7.0.tgz#cfaf3889c04125abfa20117358d7bcec72902faf"
 
 prepend-http@^1.0.1:
   version "1.0.4"
@@ -2958,9 +2958,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.62.2:
-  version "12.62.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.62.2.tgz#c5ad3e1ef9db27488fad68f4e7cb8b908704a4c0"
+renovate@12.62.3:
+  version "12.62.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.62.3.tgz#8ac97b16c8e49a7eec05e0643c857eee09af7abe"
   dependencies:
     "@renovate/pep440" "0.3.0"
     "@sindresorhus/is" "0.9.0"
@@ -3003,7 +3003,7 @@ renovate@12.62.2:
     openpgp "2.6.2"
     p-all "1.0.0"
     parse-link-header "1.0.1"
-    pnpm "2.6.2"
+    pnpm "2.7.0"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
