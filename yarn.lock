@@ -2958,9 +2958,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@12.62.8:
-  version "12.62.8"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.62.8.tgz#42d563eb979765a9532acc0e96b7bb44c506ef01"
+renovate@12.62.9:
+  version "12.62.9"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-12.62.9.tgz#e5e2bba27f25fb878bae5f3f97e10bfbd611f874"
   dependencies:
     "@renovate/pep440" "0.3.0"
     "@sindresorhus/is" "0.9.0"
