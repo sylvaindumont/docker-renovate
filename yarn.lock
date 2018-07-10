@@ -8,9 +8,9 @@
   dependencies:
     xregexp "^4.1.1"
 
-"@sindresorhus/is@0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.10.0.tgz#f42dd6a9d12cd79fa6f53b27cf5bea3a30d2cafa"
+"@sindresorhus/is@0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.11.0.tgz#a65970040a5b55c4713452666703b92a6c331fdb"
   dependencies:
     symbol-observable "^1.2.0"
 
@@ -2958,12 +2958,12 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@13.18.7:
-  version "13.18.7"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.18.7.tgz#19ddccc509c8952f616702f4ddaabff769df730c"
+renovate@13.18.8:
+  version "13.18.8"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.18.8.tgz#0d81e3955d4083b93fff4aca7ce13c0220a54f79"
   dependencies:
     "@renovate/pep440" "0.4.0"
-    "@sindresorhus/is" "0.10.0"
+    "@sindresorhus/is" "0.11.0"
     "@yarnpkg/lockfile" "1.0.2"
     bunyan "1.8.12"
     cacache "11.0.2"
