@@ -2958,9 +2958,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@13.20.0:
-  version "13.20.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.20.0.tgz#7d216e7900b4688edc9f217035aa09b3a6c6e7ec"
+renovate@13.20.1:
+  version "13.20.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.20.1.tgz#20c419d36def55677f2558abe53fccfcab21b586"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3012,7 +3012,7 @@ renovate@13.20.0:
     semver-utils "1.1.2"
     showdown "1.8.6"
     slugify "1.3.0"
-    tmp-promise "1.0.4"
+    tmp-promise "1.0.5"
     traverse "0.6.6"
     upath "1.1.0"
     validator "10.4.0"
@@ -3522,9 +3522,9 @@ tiny-relative-date@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/tiny-relative-date/-/tiny-relative-date-1.3.0.tgz#fa08aad501ed730f31cc043181d995c39a935e07"
 
-tmp-promise@1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmp-promise/-/tmp-promise-1.0.4.tgz#cfe2131b78392992e756d8692a059dc4b48be7ac"
+tmp-promise@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmp-promise/-/tmp-promise-1.0.5.tgz#3208d7fa44758f86a2a4c4060f3c33fea30e8038"
   dependencies:
     bluebird "^3.5.0"
     tmp "0.0.33"
