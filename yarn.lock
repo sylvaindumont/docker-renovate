@@ -915,9 +915,9 @@ from2@^2.1.0, from2@^2.1.1:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-fs-extra@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-6.0.1.tgz#8abc128f7946e310135ddc93b98bddb410e7a34b"
+fs-extra@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.0.tgz#8cc3f47ce07ef7b3593a11b9fb245f7e34c041d6"
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^4.0.0"
@@ -2922,9 +2922,9 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-renovate@13.21.3:
-  version "13.21.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.21.3.tgz#d6aca4a2ca5025e7af1e730f91cefb5211702057"
+renovate@13.22.0:
+  version "13.22.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.22.0.tgz#93b1799fb2acf72b81d021e1ec0ca905e9cc1dc6"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -2945,7 +2945,7 @@ renovate@13.21.3:
     email-addresses "3.0.1"
     fast-clone "1.5.3"
     fast-xml-parser "3.11.1"
-    fs-extra "6.0.1"
+    fs-extra "7.0.0"
     get-installed-path "4.0.8"
     gh-got "7.0.0"
     github-url-from-git "1.5.0"
