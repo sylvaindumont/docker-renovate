@@ -3212,9 +3212,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.35.4:
-  version "13.35.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.35.4.tgz#6c35189081d1cadb3f2e91f41eabdbed118e0813"
+renovate@13.35.5:
+  version "13.35.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.35.5.tgz#9d1fc3fcfa696c2f1374a1cc01b0e3d9ba2f024e"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3273,7 +3273,7 @@ renovate@13.35.4:
     validator "10.4.0"
     vso-node-api "6.5.0"
     www-authenticate "0.6.2"
-    yarn "1.7.0"
+    yarn "1.9.2"
 
 repeat-string@^1.5.2, repeat-string@^1.5.4:
   version "1.6.1"
@@ -4320,6 +4320,6 @@ yargs@~3.10.0:
     decamelize "^1.0.0"
     window-size "0.1.0"
 
-yarn@1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.7.0.tgz#0076b9fde6010e01950526a609bc53bc175ef925"
+yarn@1.9.2:
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.9.2.tgz#7666c6db0fed8dc090ae0dce11a8a28b1d82e391"
