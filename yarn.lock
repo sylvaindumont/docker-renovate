@@ -1962,9 +1962,9 @@ lru-cache@^4.1.3:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
 
-luxon@1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.3.2.tgz#cf5fa6fb0adcc7a1f14c36f5a15ea21631381513"
+luxon@1.3.3:
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.3.3.tgz#e66e8537a62c9b351ba69b766d7fb70b07ab5e57"
 
 make-dir@^1.0.0:
   version "1.2.0"
@@ -3212,9 +3212,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.38.2:
-  version "13.38.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.38.2.tgz#78f20e73182fe00de9b28da4539e4ab6826e55a7"
+renovate@13.38.3:
+  version "13.38.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.38.3.tgz#4f41baf2537b3ef3e0212afa5e78d4184d3c5c18"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3249,7 +3249,7 @@ renovate@13.38.2:
     later "1.2.0"
     linkify-markdown "1.0.0"
     lodash "4.17.10"
-    luxon "1.3.2"
+    luxon "1.3.3"
     markdown-it "8.4.2"
     minimatch "3.0.4"
     moment "2.22.2"
