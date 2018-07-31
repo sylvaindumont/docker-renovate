@@ -466,9 +466,9 @@ chalk@^2.0.1:
     escape-string-regexp "^1.0.5"
     supports-color "^5.2.0"
 
-changelog-filename-regex@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/changelog-filename-regex/-/changelog-filename-regex-2.0.0.tgz#b5c2525c3d1fc2be7f00ecf0d414a1e001085604"
+changelog-filename-regex@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/changelog-filename-regex/-/changelog-filename-regex-2.0.1.tgz#88944bd89a076fc572c0ab6b4a4f2bc2572ac02d"
 
 character-entities-html4@^1.0.0:
   version "1.1.2"
@@ -3389,9 +3389,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.39.1:
-  version "13.39.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.39.1.tgz#4b0f70a23977ed626f87ef84f76ffce1dbf3d7f4"
+renovate@13.39.2:
+  version "13.39.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.39.2.tgz#8c0abde5a595384efc5b1c20eae04304cb1478af"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3399,7 +3399,7 @@ renovate@13.39.1:
     bunyan "1.8.12"
     cacache "11.0.2"
     chalk "2.4.1"
-    changelog-filename-regex "2.0.0"
+    changelog-filename-regex "2.0.1"
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
     commander "2.16.0"
