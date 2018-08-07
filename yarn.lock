@@ -623,9 +623,9 @@ combined-stream@1.0.6, combined-stream@^1.0.5, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@2.17.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.0.tgz#9d07b25e2a6f198b76d8b756a0e8a9604a6a1a60"
+commander@2.17.1:
+  version "2.17.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
 compare-versions@3.3.0:
   version "3.3.0"
@@ -3412,9 +3412,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.44.3:
-  version "13.44.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.44.3.tgz#a1b74be1a84511177c6f41ce5a12c322ea1658af"
+renovate@13.44.4:
+  version "13.44.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.44.4.tgz#19fd558264bf274e9ba590d6d8fd883876740030"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3425,7 +3425,7 @@ renovate@13.44.3:
     changelog-filename-regex "2.0.1"
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
-    commander "2.17.0"
+    commander "2.17.1"
     compare-versions "3.3.0"
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
