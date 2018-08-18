@@ -629,9 +629,9 @@ commander@2.17.1:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
-compare-versions@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.3.0.tgz#af93ea705a96943f622ab309578b9b90586f39c3"
+compare-versions@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.3.1.tgz#1ede3172b713c15f7c7beb98cb74d2d82576dad3"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -3374,9 +3374,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.48.2:
-  version "13.48.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.48.2.tgz#947e5a918f9f84196484e51c81344042c4154c3d"
+renovate@13.48.4:
+  version "13.48.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.48.4.tgz#da91f315e7edadc5f0d8c4cb0f0f7c4bf561a701"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3388,7 +3388,7 @@ renovate@13.48.2:
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
     commander "2.17.1"
-    compare-versions "3.3.0"
+    compare-versions "3.3.1"
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
     deepcopy "1.0.0"
