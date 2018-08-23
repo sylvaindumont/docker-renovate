@@ -1187,9 +1187,9 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-gh-got@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/gh-got/-/gh-got-7.0.0.tgz#f6cce302e850327ed2d11c00080c56656f1e2432"
+gh-got@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/gh-got/-/gh-got-7.1.0.tgz#f2b14eef375ce49b66d5f034a1c124f56dc5bcf0"
   dependencies:
     got "^8.0.0"
     is-plain-obj "^1.1.0"
@@ -3374,9 +3374,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.49.0:
-  version "13.49.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.49.0.tgz#a439f8a11abd8b8f36acbd039c16c6f86675719a"
+renovate@13.49.5:
+  version "13.49.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.49.5.tgz#37328ccdff0b52d7e6398d1e2e0baae2ec06208b"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3400,7 +3400,7 @@ renovate@13.49.0:
     fast-xml-parser "3.12.0"
     fs-extra "7.0.0"
     get-installed-path "4.0.8"
-    gh-got "7.0.0"
+    gh-got "7.1.0"
     github-url-from-git "1.5.0"
     gl-got "8.0.0"
     got "8.3.1"
