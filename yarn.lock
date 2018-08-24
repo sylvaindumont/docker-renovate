@@ -3374,9 +3374,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.49.5:
-  version "13.49.5"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.49.5.tgz#37328ccdff0b52d7e6398d1e2e0baae2ec06208b"
+renovate@13.49.6:
+  version "13.49.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.49.6.tgz#87cfa203f963862b8956994cbcbe92551daeefb4"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3433,7 +3433,7 @@ renovate@13.49.5:
     tmp-promise "1.0.5"
     traverse "0.6.6"
     upath "1.1.0"
-    validator "10.6.0"
+    validator "10.7.0"
     vso-node-api "6.5.0"
     www-authenticate "0.6.2"
     yarn "1.9.4"
@@ -4309,9 +4309,9 @@ validate-npm-package-name@^3.0.0, validate-npm-package-name@~3.0.0:
   dependencies:
     builtins "^1.0.3"
 
-validator@10.6.0:
-  version "10.6.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-10.6.0.tgz#a9bdce685b3c3e8480e7ebbb9eb95c54cd9733b0"
+validator@10.7.0:
+  version "10.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-10.7.0.tgz#2d6443badcf942c86c19dc3deac7b87c0bd9b60d"
 
 "vasync@1.x >=1.6.1":
   version "1.6.4"
