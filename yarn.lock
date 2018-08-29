@@ -1067,7 +1067,7 @@ forever-agent@~0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/forever-agent/-/forever-agent-0.6.1.tgz#fbc71f0c41adeb37f96c577ad1ed42d8fdacca91"
 
-form-data@~2.3.1, form-data@~2.3.2:
+form-data@2.3.2, form-data@~2.3.1, form-data@~2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/form-data/-/form-data-2.3.2.tgz#4970498be604c20c005d4f5c23aecd21d6b49099"
   dependencies:
@@ -2929,6 +2929,10 @@ parallel-transform@^1.1.0:
     inherits "^2.0.3"
     readable-stream "^2.1.5"
 
+parse-diff@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/parse-diff/-/parse-diff-0.4.2.tgz#b173390e916564e8c70ccd37756047941e5b3ef2"
+
 parse-entities@^1.0.2, parse-entities@^1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/parse-entities/-/parse-entities-1.1.2.tgz#9eaf719b29dc3bd62246b4332009072e01527777"
@@ -3374,9 +3378,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.51.8:
-  version "13.51.8"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.51.8.tgz#f846850e6252d5e3d6cfd081d3755f700ed73d7c"
+renovate@13.52.0:
+  version "13.52.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.52.0.tgz#47efc8bb6d6e9ffe63f5be53638b6ed030485943"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3398,6 +3402,7 @@ renovate@13.51.8:
     email-addresses "3.0.1"
     fast-clone "1.5.3"
     fast-xml-parser "3.12.0"
+    form-data "2.3.2"
     fs-extra "7.0.0"
     get-installed-path "4.0.8"
     gh-got "7.1.0"
@@ -3420,6 +3425,7 @@ renovate@13.51.8:
     npm "6.4.0"
     openpgp "2.6.2"
     p-all "1.0.0"
+    parse-diff "0.4.2"
     parse-link-header "1.0.1"
     pnpm "2.13.6"
     registry-auth-token "3.3.2"
