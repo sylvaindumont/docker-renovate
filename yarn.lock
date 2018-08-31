@@ -614,9 +614,9 @@ commander@2.17.1:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
-compare-versions@3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.3.1.tgz#1ede3172b713c15f7c7beb98cb74d2d82576dad3"
+compare-versions@3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.4.0.tgz#e0747df5c9cb7f054d6d3dc3e1dbc444f9e92b26"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -3031,9 +3031,9 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pnpm@2.13.6:
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.13.6.tgz#cf8cddb29e16199d10543a72228299231d7ced0e"
+pnpm@2.14.5:
+  version "2.14.5"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.14.5.tgz#e6955a5f818d7217bd8f95d9f3d51c90f2ff8a04"
 
 precond@0.2:
   version "0.2.3"
@@ -3384,9 +3384,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.52.3:
-  version "13.52.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.52.3.tgz#017c11b3b330a0983a2c175a55e63c22e2188569"
+renovate@13.52.4:
+  version "13.52.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.52.4.tgz#1cc4e82a5aed6373397ca4bdc8016a97a85a41de"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3398,7 +3398,7 @@ renovate@13.52.3:
     child-process-promise "2.2.1"
     clean-git-ref "1.0.3"
     commander "2.17.1"
-    compare-versions "3.3.1"
+    compare-versions "3.4.0"
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
     deepcopy "1.0.0"
@@ -3433,7 +3433,7 @@ renovate@13.52.3:
     p-all "1.0.0"
     parse-diff "0.4.2"
     parse-link-header "1.0.1"
-    pnpm "2.13.6"
+    pnpm "2.14.5"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
