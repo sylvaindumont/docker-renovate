@@ -788,9 +788,9 @@ defaults@^1.0.3:
   dependencies:
     clone "^1.0.2"
 
-delay@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/delay/-/delay-3.1.0.tgz#fb7e64afbcea7f3c73435f3fb028d44e07734117"
+delay@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/delay/-/delay-4.0.0.tgz#a890c37829b5cd39ffe1be7453849f5a8169d5de"
 
 delayed-stream@~1.0.0:
   version "1.0.0"
@@ -3384,9 +3384,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.56.1:
-  version "13.56.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.56.1.tgz#6d56a729d1301872e4451e7b9f536ac51e91034d"
+renovate@13.57.0:
+  version "13.57.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.57.0.tgz#eeb15bd14c31f74a0b57c33a3dd88ed3dde78f4e"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3402,7 +3402,7 @@ renovate@13.56.1:
     conventional-commits-detector "0.1.1"
     convert-hrtime "2.0.0"
     deepcopy "1.0.0"
-    delay "3.1.0"
+    delay "4.0.0"
     detect-indent "5.0.0"
     docker-registry-client "3.3.0"
     email-addresses "3.0.1"
