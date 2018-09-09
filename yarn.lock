@@ -2996,9 +2996,9 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pnpm@2.15.0:
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.15.0.tgz#ffe9dfa948ac51fbef4cb900a879fc981e10d79c"
+pnpm@2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.15.1.tgz#d85cdf99eedbdd4ce8453f8acce4805931f52d05"
 
 precond@0.2:
   version "0.2.3"
@@ -3349,9 +3349,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.62.9:
-  version "13.62.9"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.62.9.tgz#34edc109fce32ab5d6a5718c018688b3cece5c1a"
+renovate@13.62.10:
+  version "13.62.10"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.62.10.tgz#c2d176c1fdc6ddcccd37020ba10bddf1fcba6cb9"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3398,7 +3398,7 @@ renovate@13.62.9:
     p-all "1.0.0"
     parse-diff "0.4.2"
     parse-link-header "1.0.1"
-    pnpm "2.15.0"
+    pnpm "2.15.1"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
