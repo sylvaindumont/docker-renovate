@@ -1997,13 +1997,17 @@ lodash.without@~4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/lodash.without/-/lodash.without-4.4.0.tgz#3cd4574a00b67bae373a94b748772640507b7aac"
 
-lodash@4.17.10, lodash@^4.17.10, lodash@^4.7.0:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+lodash@4.17.11:
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 lodash@^3.10.1:
   version "3.10.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
+
+lodash@^4.17.10, lodash@^4.7.0:
+  version "4.17.10"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
 
 longest-streak@^2.0.1:
   version "2.0.2"
@@ -3349,9 +3353,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.64.18:
-  version "13.64.18"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.64.18.tgz#b1a727a6b9e182ea482d638478772de1a98a0b19"
+renovate@13.65.0:
+  version "13.65.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.65.0.tgz#a90a70a8db429929aec92f065e6e4327b00b3a45"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3387,7 +3391,7 @@ renovate@13.64.18:
     json-stringify-pretty-compact "1.2.0"
     later "1.2.0"
     linkify-markdown "1.0.0"
-    lodash "4.17.10"
+    lodash "4.17.11"
     luxon "1.3.3"
     markdown-it "8.4.2"
     minimatch "3.0.4"
