@@ -877,9 +877,9 @@ elliptic@^3.0.4:
     hash.js "^1.0.0"
     inherits "^2.0.1"
 
-email-addresses@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-3.0.1.tgz#c1fc20c189e7f96d4012d375db5feaccdd24391c"
+email-addresses@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-3.0.2.tgz#a31280d19baf86669840a0aa45be1d7f6e7df315"
 
 encoding@^0.1.11:
   version "0.1.12"
@@ -3359,9 +3359,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.79.1:
-  version "13.79.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.1.tgz#a79741af5ffb398d7aab2ee1c7f5b1c4e53512a8"
+renovate@13.79.2:
+  version "13.79.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.2.tgz#979335e7c747b68cc0428ae4adaa7151bd90033e"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3380,7 +3380,7 @@ renovate@13.79.1:
     delay "4.0.1"
     detect-indent "5.0.0"
     docker-registry-client "3.3.0"
-    email-addresses "3.0.1"
+    email-addresses "3.0.2"
     fast-clone "1.5.3"
     fast-xml-parser "3.12.5"
     form-data "2.3.2"
