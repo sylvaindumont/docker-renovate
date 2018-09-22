@@ -3359,9 +3359,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.79.2:
-  version "13.79.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.2.tgz#979335e7c747b68cc0428ae4adaa7151bd90033e"
+renovate@13.79.3:
+  version "13.79.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.3.tgz#dd8ba9dff7489691d7884594dae9c65bc3b5df9c"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3416,7 +3416,7 @@ renovate@13.79.2:
     semver-stable "2.0.4"
     semver-utils "1.1.2"
     showdown "1.8.6"
-    simple-git "1.100.0"
+    simple-git "1.102.0"
     slugify "1.3.1"
     traverse "0.6.6"
     upath "1.1.0"
@@ -3663,9 +3663,9 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
-simple-git@1.100.0:
-  version "1.100.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-1.100.0.tgz#6e781885fcde0e7751cabec0746b2b943ae4cce7"
+simple-git@1.102.0:
+  version "1.102.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-1.102.0.tgz#5e159a15fcfcb1eca212a4fdceb4384166c71e7d"
   dependencies:
     debug "^4.0.1"
 
