@@ -3359,9 +3359,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.79.8:
-  version "13.79.8"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.8.tgz#b9941aa84eda51c0739c70cc714a2e67f2d934fe"
+renovate@13.79.11:
+  version "13.79.11"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.79.11.tgz#022908663f4738b4838444f9cae06e9c5e3bc8f8"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3415,7 +3415,6 @@ renovate@13.79.8:
     semver "5.5.1"
     semver-stable "2.0.4"
     semver-utils "1.1.2"
-    showdown "1.8.6"
     simple-git "1.102.0"
     slugify "1.3.1"
     traverse "0.6.6"
@@ -3652,12 +3651,6 @@ shebang-command@^1.2.0:
 shebang-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
-
-showdown@1.8.6:
-  version "1.8.6"
-  resolved "https://registry.yarnpkg.com/showdown/-/showdown-1.8.6.tgz#91ea4ee3b7a5448aaca6820a4e27e690c6ad771c"
-  dependencies:
-    yargs "^10.0.3"
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
@@ -4433,34 +4426,11 @@ yallist@^3.0.0, yallist@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-3.0.2.tgz#8452b4bb7e83c7c188d8041c1a837c773d6d8bb9"
 
-yargs-parser@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-8.1.0.tgz#f1376a33b6629a5d063782944da732631e966950"
-  dependencies:
-    camelcase "^4.1.0"
-
 yargs-parser@^9.0.2:
   version "9.0.2"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-9.0.2.tgz#9ccf6a43460fe4ed40a9bb68f48d43b8a68cc077"
   dependencies:
     camelcase "^4.1.0"
-
-yargs@^10.0.3:
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-10.1.2.tgz#454d074c2b16a51a43e2fb7807e4f9de69ccb5c5"
-  dependencies:
-    cliui "^4.0.0"
-    decamelize "^1.1.1"
-    find-up "^2.1.0"
-    get-caller-file "^1.0.1"
-    os-locale "^2.0.0"
-    require-directory "^2.1.1"
-    require-main-filename "^1.0.1"
-    set-blocking "^2.0.0"
-    string-width "^2.0.0"
-    which-module "^2.0.0"
-    y18n "^3.2.1"
-    yargs-parser "^8.1.0"
 
 yargs@^11.0.0:
   version "11.0.0"
