@@ -3075,9 +3075,9 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pnpm@2.16.1:
-  version "2.16.1"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.16.1.tgz#d64a7faa5e0a2d54d0fe6de0ef9e21fb26879d3c"
+pnpm@2.16.2:
+  version "2.16.2"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.16.2.tgz#0ef72eeb739dd6fbb24b7f5106be655ad2b997d3"
 
 precond@0.2:
   version "0.2.3"
@@ -3444,9 +3444,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.82.0:
-  version "13.82.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.82.0.tgz#2adde5014248a27768e73e4066d2c773f1564bda"
+renovate@13.82.1:
+  version "13.82.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.82.1.tgz#38fcc1cfd0dbabcd2ec8fdd47384402c70912676"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.11.0"
@@ -3494,7 +3494,7 @@ renovate@13.82.0:
     p-all "1.0.0"
     parse-diff "0.4.2"
     parse-link-header "1.0.1"
-    pnpm "2.16.1"
+    pnpm "2.16.2"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
@@ -3509,7 +3509,7 @@ renovate@13.82.0:
     validator "10.8.0"
     vso-node-api "6.5.0"
     www-authenticate "0.6.2"
-    yarn "1.9.4"
+    yarn "1.10.0"
 
 repeat-string@^1.5.4:
   version "1.6.1"
@@ -4569,6 +4569,6 @@ yargs@^11.0.0:
     y18n "^3.2.1"
     yargs-parser "^9.0.2"
 
-yarn@1.9.4:
-  version "1.9.4"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.9.4.tgz#3b82d8446b652775723900b470d966861976924b"
+yarn@1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.10.0.tgz#f7d81802586fa8b3b4bf3ac6fb493fbc6c29845c"
