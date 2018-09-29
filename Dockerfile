@@ -7,6 +7,7 @@ RUN apk add --quiet --no-cache --virtual .gyp \
   build-base \
   git \
   && yarn \
+  && yarn global add yarn@1.10.1 \
   && yarn cache clean \
   && apk --quiet del .gyp
 
