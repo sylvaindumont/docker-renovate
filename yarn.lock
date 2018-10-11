@@ -3359,9 +3359,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.99.17:
-  version "13.99.17"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.99.17.tgz#a4b7dc95bb129afa4bf18db0b003724e066f3f8c"
+renovate@13.99.19:
+  version "13.99.19"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.99.19.tgz#a5a1415be18773da8024d141b9c9f2233084a429"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.12.0"
@@ -3412,7 +3412,7 @@ renovate@13.99.17:
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
-    semver "5.5.1"
+    semver "5.6.0"
     semver-stable "2.0.4"
     semver-utils "1.1.4"
     simple-git "1.104.0"
@@ -3623,9 +3623,9 @@ semver-utils@1.1.4:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
 
-semver@5.5.1:
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.1.tgz#7dfdd8814bdb7cabc7be0fb1d734cfb66c940477"
+semver@5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
 
 semver@~5.3.0:
   version "5.3.0"
