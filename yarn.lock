@@ -3373,9 +3373,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.114.2:
-  version "13.114.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.114.2.tgz#ba89c0da4ddc60287861ef389ce3782811fe46be"
+renovate@13.114.3:
+  version "13.114.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.114.3.tgz#9038b42d2167f6cc5020ddfda3eff9d0e3fd6a26"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.12.0"
