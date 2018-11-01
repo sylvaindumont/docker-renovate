@@ -2221,9 +2221,9 @@ mississippi@^3.0.0:
   dependencies:
     minimist "0.0.8"
 
-moment-timezone@0.5.21:
-  version "0.5.21"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.21.tgz#3cba247d84492174dbf71de2a9848fa13207b845"
+moment-timezone@0.5.23:
+  version "0.5.23"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.23.tgz#7cbb00db2c14c71b19303cb47b0fb0a6d8651463"
   dependencies:
     moment ">= 2.9.0"
 
@@ -3226,9 +3226,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.115.5:
-  version "13.115.5"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.115.5.tgz#fd59a9a9125fc980972f5ea7d9022a2bd7699aa7"
+renovate@13.115.6:
+  version "13.115.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.115.6.tgz#68fdae8816dd6125fc87402dffa19f049363c833"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.12.0"
@@ -3269,7 +3269,7 @@ renovate@13.115.5:
     markdown-it "8.4.2"
     minimatch "3.0.4"
     moment "2.22.2"
-    moment-timezone "0.5.21"
+    moment-timezone "0.5.23"
     npm "6.4.1"
     openpgp "2.6.2"
     p-all "1.0.0"
