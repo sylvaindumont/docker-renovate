@@ -2895,9 +2895,9 @@ pify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
-pnpm@2.17.3:
-  version "2.17.3"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.17.3.tgz#d097ef8f062f435b15d845ac03d77046482e14b9"
+pnpm@2.17.6:
+  version "2.17.6"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.17.6.tgz#cc240568e41142bee46870ee0b75023b8b8425b0"
 
 precond@0.2:
   version "0.2.3"
@@ -3226,9 +3226,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.115.6:
-  version "13.115.6"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.115.6.tgz#68fdae8816dd6125fc87402dffa19f049363c833"
+renovate@13.117.0:
+  version "13.117.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.117.0.tgz#9798c28a1aa3b6b2cfb29ada79cf1d1abba270b4"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.12.0"
@@ -3275,7 +3275,7 @@ renovate@13.115.6:
     p-all "1.0.0"
     parse-diff "0.5.1"
     parse-link-header "1.0.1"
-    pnpm "2.17.3"
+    pnpm "2.17.6"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
     safe-regex "1.1.0"
