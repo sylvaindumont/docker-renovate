@@ -306,9 +306,9 @@ byte-size@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/byte-size/-/byte-size-4.0.3.tgz#b7c095efc68eadf82985fccd9a2df43a74fa2ccd"
 
-cacache@11.2.0, cacache@^11.2.0:
-  version "11.2.0"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-11.2.0.tgz#617bdc0b02844af56310e411c0878941d5739965"
+cacache@11.3.1:
+  version "11.3.1"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-11.3.1.tgz#d09d25f6c4aca7a6d305d141ae332613aa1d515f"
   dependencies:
     bluebird "^3.5.1"
     chownr "^1.0.1"
@@ -372,6 +372,25 @@ cacache@^11.0.2:
     glob "^7.1.2"
     graceful-fs "^4.1.11"
     lru-cache "^4.1.2"
+    mississippi "^3.0.0"
+    mkdirp "^0.5.1"
+    move-concurrently "^1.0.1"
+    promise-inflight "^1.0.1"
+    rimraf "^2.6.2"
+    ssri "^6.0.0"
+    unique-filename "^1.1.0"
+    y18n "^4.0.0"
+
+cacache@^11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-11.2.0.tgz#617bdc0b02844af56310e411c0878941d5739965"
+  dependencies:
+    bluebird "^3.5.1"
+    chownr "^1.0.1"
+    figgy-pudding "^3.1.0"
+    glob "^7.1.2"
+    graceful-fs "^4.1.11"
+    lru-cache "^4.1.3"
     mississippi "^3.0.0"
     mkdirp "^0.5.1"
     move-concurrently "^1.0.1"
@@ -1061,9 +1080,9 @@ from2@^2.1.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-fs-extra@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.0.tgz#8cc3f47ce07ef7b3593a11b9fb245f7e34c041d6"
+fs-extra@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^4.0.0"
@@ -3171,15 +3190,15 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.125.2:
-  version "13.125.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.125.2.tgz#62e429736a3a20eb9ea9e2473cb19bd78d56ef3f"
+renovate@13.125.4:
+  version "13.125.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.125.4.tgz#88095903b1e0fc33cc481d2906626a817b46abde"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.13.0"
     "@yarnpkg/lockfile" "1.1.0"
     bunyan "1.8.12"
-    cacache "11.2.0"
+    cacache "11.3.1"
     chalk "2.4.1"
     changelog-filename-regex "2.0.1"
     child-process-promise "2.2.1"
@@ -3196,7 +3215,7 @@ renovate@13.125.2:
     fast-clone "1.5.3"
     fast-xml-parser "3.12.5"
     form-data "2.3.3"
-    fs-extra "7.0.0"
+    fs-extra "7.0.1"
     get-installed-path "4.0.8"
     gh-got "8.0.1"
     github-url-from-git "1.5.0"
