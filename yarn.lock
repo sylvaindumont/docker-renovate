@@ -2992,9 +2992,9 @@ pify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
-pnpm@2.19.4:
-  version "2.19.4"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.19.4.tgz#8c38c56e031377dced6bfbe4bc031665f9ee5304"
+pnpm@2.20.1:
+  version "2.20.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.20.1.tgz#ac202fb03e8339e96e0fef0c667037c27e2977de"
 
 precond@0.2:
   version "0.2.3"
@@ -3353,9 +3353,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.141.0:
-  version "13.141.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.141.0.tgz#14910c14406ab12635ec64e5435506abe5ed0d06"
+renovate@13.141.2:
+  version "13.141.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.141.2.tgz#50577702a955b519a850b8a10517e8989ed9926d"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.13.0"
@@ -3402,7 +3402,7 @@ renovate@13.141.0:
     p-all "1.0.0"
     parse-diff "0.5.1"
     parse-link-header "1.0.1"
-    pnpm "2.19.4"
+    pnpm "2.20.1"
     proxy-agent "3.0.3"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
@@ -3411,7 +3411,7 @@ renovate@13.141.0:
     semver-stable "2.0.4"
     semver-utils "1.1.4"
     simple-git "1.107.0"
-    slugify "1.3.3"
+    slugify "1.3.4"
     toml "2.3.3"
     tomlify-j0.4 "3.0.0"
     traverse "0.6.6"
@@ -3665,9 +3665,9 @@ slide@^1.1.3, slide@^1.1.5, slide@^1.1.6, slide@~1.1.3, slide@~1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
 
-slugify@1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.3.3.tgz#86200672a4ad7e88dc5190210176b62f9c19ecdf"
+slugify@1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.3.4.tgz#78d2792d7222b55cd9fc81fa018df99af779efeb"
 
 smart-buffer@^1.0.13:
   version "1.1.15"
