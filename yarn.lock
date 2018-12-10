@@ -197,6 +197,15 @@ aws4@^1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
 
+azure-devops-node-api@6.6.3:
+  version "6.6.3"
+  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-6.6.3.tgz#965d0fe5ca08944356b033f310ae0642c14ced8e"
+  dependencies:
+    os "0.1.1"
+    tunnel "0.0.4"
+    typed-rest-client "1.0.9"
+    underscore "1.8.3"
+
 backoff@^2.4.1:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/backoff/-/backoff-2.5.0.tgz#f616eda9d3e4b66b8ca7fca79f695722c5f8e26f"
@@ -2815,6 +2824,10 @@ os-tmpdir@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
 
+os@0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/os/-/os-0.1.1.tgz#208845e89e193ad4d971474b93947736a56d13f3"
+
 osenv@0, osenv@^0.1.4, osenv@^0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/osenv/-/osenv-0.1.5.tgz#85cdfafaeb28e8677f416e287592b5f3f49ea410"
@@ -3353,13 +3366,14 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.143.0:
-  version "13.143.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.143.0.tgz#e64e421e2f7da1f04081027a09ba89bb47ebd8e5"
+renovate@13.144.0:
+  version "13.144.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.144.0.tgz#74530b79211d62d7abb5b293e71ed9332cfc7601"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@sindresorhus/is" "0.13.0"
     "@yarnpkg/lockfile" "1.1.0"
+    azure-devops-node-api "6.6.3"
     bunyan "1.8.12"
     cacache "11.3.1"
     chalk "2.4.1"
@@ -3417,7 +3431,6 @@ renovate@13.143.0:
     traverse "0.6.6"
     upath "1.1.0"
     validator "10.9.0"
-    vso-node-api "6.5.0"
     www-authenticate "0.6.2"
     yarn "1.9.4"
 
@@ -4060,9 +4073,9 @@ type-detect@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
 
-typed-rest-client@^0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/typed-rest-client/-/typed-rest-client-0.12.0.tgz#6376f5527f427da121dcafdfd7e41e1321e0720c"
+typed-rest-client@1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/typed-rest-client/-/typed-rest-client-1.0.9.tgz#5317b607c9c8ee425b64260c9249d400d0a6bf1a"
   dependencies:
     tunnel "0.0.4"
     underscore "1.8.3"
@@ -4297,14 +4310,6 @@ vfile@^2.0.0:
     replace-ext "1.0.0"
     unist-util-stringify-position "^1.0.0"
     vfile-message "^1.0.0"
-
-vso-node-api@6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/vso-node-api/-/vso-node-api-6.5.0.tgz#5f3453f27d211b0fd54423c4c73116c1e8fea0c6"
-  dependencies:
-    tunnel "0.0.4"
-    typed-rest-client "^0.12.0"
-    underscore "1.8.3"
 
 wcwidth@^1.0.0:
   version "1.0.1"
