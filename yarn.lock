@@ -25,11 +25,9 @@
     verror "1.x >=1.6.0"
     www-authenticate "0.6.x >=0.6.2"
 
-"@sindresorhus/is@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.13.0.tgz#a85d06c13658d0cc9584537df4a99423461f114b"
-  dependencies:
-    symbol-observable "^1.2.0"
+"@sindresorhus/is@0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
 
 "@sindresorhus/is@^0.12.0":
   version "0.12.0"
@@ -2286,9 +2284,9 @@ moment-timezone@0.5.23:
   dependencies:
     moment ">= 2.9.0"
 
-moment@2.22.2:
-  version "2.22.2"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
+moment@2.23.0:
+  version "2.23.0"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.23.0.tgz#759ea491ac97d54bac5ad776996e2a58cc1bc225"
 
 "moment@>= 2.9.0", moment@^2.10.6:
   version "2.20.1"
@@ -3337,13 +3335,13 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.154.1:
-  version "13.154.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.154.1.tgz#b634095ba00f77ca27c701ed871aab5d03ccfb43"
+renovate@13.154.3:
+  version "13.154.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.154.3.tgz#d8bcedd2a45218d14ffcd3d5d324390766c606c7"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@renovatebot/docker-registry-client" "3.3.0"
-    "@sindresorhus/is" "0.13.0"
+    "@sindresorhus/is" "0.14.0"
     "@yarnpkg/lockfile" "1.1.0"
     azure-devops-node-api "6.6.3"
     bunyan "1.8.12"
@@ -3380,7 +3378,7 @@ renovate@13.154.1:
     luxon "1.8.2"
     markdown-it "8.4.2"
     minimatch "3.0.4"
-    moment "2.22.2"
+    moment "2.23.0"
     moment-timezone "0.5.23"
     npm "6.4.1"
     openpgp "2.6.2"
