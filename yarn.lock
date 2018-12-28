@@ -3002,9 +3002,9 @@ pify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
-pnpm@2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.21.1.tgz#39e3eb6ccfb015499ce473972a3c2b58a81baa81"
+pnpm@2.23.1:
+  version "2.23.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-2.23.1.tgz#7e98c8c252a2a5978ec6e88ae27bdd409a6bb6a6"
 
 precond@0.2:
   version "0.2.3"
@@ -3371,9 +3371,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.160.2:
-  version "13.160.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.160.2.tgz#dcfac35d0796d0432357d4745eef6b81eb714b69"
+renovate@13.161.1:
+  version "13.161.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.161.1.tgz#495d8f33eb8b29f399ad31605c0325935e80b1ba"
   dependencies:
     "@renovate/pep440" "0.4.0"
     "@renovatebot/docker-registry-client" "3.3.0"
@@ -3421,7 +3421,7 @@ renovate@13.160.2:
     p-all "1.0.0"
     parse-diff "0.5.1"
     parse-link-header "1.0.1"
-    pnpm "2.21.1"
+    pnpm "2.23.1"
     proxy-agent "3.0.3"
     registry-auth-token "3.3.2"
     root-require "0.3.1"
