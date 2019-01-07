@@ -2,11 +2,11 @@
 # yarn lockfile v1
 
 
-"@renovate/pep440@0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@renovate/pep440/-/pep440-0.4.0.tgz#fbc38e1c440ea949db2fdc776833615494515171"
+"@renovate/pep440@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@renovate/pep440/-/pep440-0.4.1.tgz#0b0d2c30547f3ecc6ac0083cd7afd15db04979be"
   dependencies:
-    xregexp "^4.1.1"
+    xregexp "4.2.0"
 
 "@renovatebot/docker-registry-client@3.3.0":
   version "3.3.0"
@@ -3391,11 +3391,11 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.169.0:
-  version "13.169.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.169.0.tgz#18848e91f93ceb3af5a68c79fa527e0f218a89a4"
+renovate@13.170.2:
+  version "13.170.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.170.2.tgz#ed9ac5fbc40da0e8eb6a8668029f8f2c2f6832d1"
   dependencies:
-    "@renovate/pep440" "0.4.0"
+    "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
     "@sindresorhus/is" "0.14.0"
     "@snyk/ruby-semver" "2.0.0"
@@ -4441,9 +4441,9 @@ xregexp@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-2.0.0.tgz#52a63e56ca0b84a7f3a5f3d61872f126ad7a5943"
 
-xregexp@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.1.1.tgz#eb8a032aa028d403f7b1b22c47a5f16c24b21d8d"
+xregexp@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.2.0.tgz#33f09542b0d7cabed46728eeacac4d5bd764ccf5"
 
 xtend@^4.0.1, xtend@~4.0.1:
   version "4.0.1"
