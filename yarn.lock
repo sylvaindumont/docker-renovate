@@ -3391,9 +3391,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.172.4:
-  version "13.172.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.172.4.tgz#c6c8c4308435aea6d1b547b12811d114cbb17888"
+renovate@13.173.0:
+  version "13.173.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.173.0.tgz#9eb6206f9f28e81f2a14414ce5d684ad1d9a0ff0"
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
