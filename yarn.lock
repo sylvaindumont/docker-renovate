@@ -3391,9 +3391,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.172.3:
-  version "13.172.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.172.3.tgz#a97a098382896d3559efacf97dc84f2099ce6eed"
+renovate@13.172.4:
+  version "13.172.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.172.4.tgz#c6c8c4308435aea6d1b547b12811d114cbb17888"
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
@@ -3452,7 +3452,7 @@ renovate@13.172.3:
     semver-utils "1.1.4"
     simple-git "1.107.0"
     slugify "1.3.4"
-    toml "2.3.3"
+    toml "2.3.5"
     tomlify-j0.4 "3.0.0"
     traverse "0.6.6"
     upath "1.1.0"
@@ -4030,9 +4030,9 @@ to-vfile@^2.2.0:
     vfile "^2.0.0"
     x-is-function "^1.0.4"
 
-toml@2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/toml/-/toml-2.3.3.tgz#8d683d729577cb286231dfc7a8affe58d31728fb"
+toml@2.3.5:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/toml/-/toml-2.3.5.tgz#a1f5d7f7efd300fa426258f3e74374536191e3db"
 
 tomlify-j0.4@3.0.0:
   version "3.0.0"
