@@ -2080,9 +2080,9 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-luxon@1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.8.3.tgz#6c76b50319b3a91a357002ca2e96576bb3bfe26d"
+luxon@1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.10.0.tgz#335b55e2fed50e09f869aee828897a3f67c7044e"
 
 make-dir@^1.0.0:
   version "1.2.0"
@@ -3391,9 +3391,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.175.0:
-  version "13.175.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.175.0.tgz#08fb2fe0688c9ba405b4709a11643f2a0e0362bc"
+renovate@13.175.2:
+  version "13.175.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.175.2.tgz#c2f6ba874ab77e1ce93888b3fe83174d9c5200bd"
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
@@ -3432,7 +3432,7 @@ renovate@13.175.0:
     later "1.2.0"
     linkify-markdown "1.0.0"
     lodash "4.17.11"
-    luxon "1.8.3"
+    luxon "1.10.0"
     markdown-it "8.4.2"
     minimatch "3.0.4"
     moment "2.23.0"
