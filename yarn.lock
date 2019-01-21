@@ -1460,6 +1460,10 @@ hawk@~6.0.2:
     hoek "4.x.x"
     sntp "2.x.x"
 
+he@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
+
 hoek@4.x.x:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-4.2.1.tgz#9634502aa12c445dd5a7c5734b572bb8738aacbb"
@@ -2494,6 +2498,12 @@ node-gyp@^3.8.0:
     tar "^2.0.0"
     which "1"
 
+node-html-parser@1.1.12:
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-1.1.12.tgz#dc345411496a7bb4313ad41ae044df5d4cd7220b"
+  dependencies:
+    he "1.1.1"
+
 node-localstorage@~1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/node-localstorage/-/node-localstorage-1.3.0.tgz#2e436aae8dcc9ace97b43c65c16c0d577be0a55c"
@@ -3429,9 +3439,9 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@13.177.1:
-  version "13.177.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.177.1.tgz#5cdd8fdaa9003083e2b923b1b44e42438b5b9e90"
+renovate@13.178.0:
+  version "13.178.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-13.178.0.tgz#a32de762b50b414889c3dcb4895a13e88733138f"
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
@@ -3474,6 +3484,7 @@ renovate@13.177.1:
     minimatch "3.0.4"
     moment "2.23.0"
     moment-timezone "0.5.23"
+    node-html-parser "1.1.12"
     npm "6.6.0"
     openpgp "2.6.2"
     p-all "1.0.0"
