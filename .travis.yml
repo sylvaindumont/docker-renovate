@@ -10,5 +10,5 @@ services:
 
 script:
   - docker build -t weboaks/renovate:$(node get-renovate-version.js) .
-  - docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - docker push weboaks/renovate:$(node get-renovate-version.js)
